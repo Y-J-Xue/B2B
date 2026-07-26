@@ -1,0 +1,5 @@
+For Hugging Face Spaces:
+- Use the Streamlit template.
+- Keep app.py at the repository root.
+- Keep requirements.txt at the repository root.
+- Keep assets/template.xlsx in place.
